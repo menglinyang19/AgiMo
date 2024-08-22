@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2442" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -77,25 +77,25 @@
         <mxCell id="JgYmik9hs0i8dOX898q2-47" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;fillColor=#B3B3B3;strokeColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="7" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JgYmik9hs0i8dOX898q2-42" value="From B03:&lt;div&gt;AMOD Demand and&amp;nbsp; Operation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JgYmik9hs0i8dOX898q2-42" value="From B03:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;AMOD Demand and&amp;nbsp; Operation&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="25.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JgYmik9hs0i8dOX898q2-49" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;fillColor=#B3B3B3;strokeColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="514" y="7" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JgYmik9hs0i8dOX898q2-50" value="From C01:&lt;div&gt;Fairness&lt;/div&gt;&lt;div&gt;Matrix&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JgYmik9hs0i8dOX898q2-50" value="From C01:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Fairness&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Matrix&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="25.5" width="64" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JgYmik9hs0i8dOX898q2-52" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;fillColor=#B3B3B3;strokeColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="360" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JgYmik9hs0i8dOX898q2-53" value="To B03:&lt;div&gt;AMOD service reliability&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JgYmik9hs0i8dOX898q2-53" value="To B03:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;AMOD service reliability&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="378.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JgYmik9hs0i8dOX898q2-55" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;fillColor=#B3B3B3;strokeColor=none;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="327" y="360" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JgYmik9hs0i8dOX898q2-56" value="To C02 &amp;amp; C03:&lt;div&gt;Signal optimization models&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JgYmik9hs0i8dOX898q2-56" value="To C02 &amp;amp; C03:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Signal optimization models&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="333" y="378.5" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JgYmik9hs0i8dOX898q2-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Fairness-aware adaptive signal algorithm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
